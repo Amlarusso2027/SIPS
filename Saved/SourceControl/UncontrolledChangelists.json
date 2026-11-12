@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jrtrask/Desktop/SIPS/Content/WB_DialogueBox.uasset",
+				"C:/Users/jrtrask/Desktop/SIPS/Content/BP_NPC.uasset",
+				"C:/Users/jrtrask/Desktop/SIPS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jrtrask/Desktop/SIPS/Content/SIPS.umap"
+			]
+		}
+	]
+}
